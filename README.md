@@ -2,7 +2,7 @@
 
 ## Overview
 The Movie Recommender System is a machine learning project aimed at providing personalized movie recommendations to users based on their preferences and past viewing history. Leveraging collaborative filtering, content-based filtering, and matrix factorization techniques, the system generates accurate and relevant movie suggestions tailored to individual user profiles.
-
+(over.jpg)
 ## Features
 - Collaborative filtering using k-Nearest Neighbors (k-NN) algorithm
 - Content-based filtering with cosine similarity
