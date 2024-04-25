@@ -15,11 +15,6 @@ The project utilizes the MovieLens dataset, a comprehensive repository of movie 
 ## Model Development
 The model development process involves data preprocessing, exploratory data analysis (EDA), algorithm selection, and training. Various algorithms, including collaborative filtering, content-based filtering, and matrix factorization, are implemented and fine-tuned to achieve optimal recommendation performance.
 
-## Usage
-To use the Movie Recommender System, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the main script to train the model and generate movie recommendations.
 
 ## Future Scopes
 Future enhancements to the Movie Recommender System include:
