@@ -31,11 +31,3 @@ Future enhancements to the Movie Recommender System include:
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Contributors
-- [Your Name](https://github.com/yourusername)
-- [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2)
-
-## Acknowledgements
-Special thanks to the GroupLens research group at the University of Minnesota for providing the MovieLens dataset, and to the scikit-learn community for their invaluable contributions to machine learning and data science.
-
