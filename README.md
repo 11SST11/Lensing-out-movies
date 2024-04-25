@@ -25,8 +25,9 @@ To use the Movie Recommender System, follow these steps:
 Future enhancements to the Movie Recommender System include:
 - Incorporation of deep learning techniques for improved recommendation accuracy.
 - Real-time personalization based on user context and behavior.
-- Enhanced user interaction through intuitive interfaces and feedback mechanisms.
 - Integration with external data sources to enrich user profiles and recommendation quality.
+- Designing a user-friendly UI interface with Streamlit for seamless interaction and visualization of recommendations.
+- Consideration of implicit feedback and preferences in the recommendation process for better and more accurate results.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
